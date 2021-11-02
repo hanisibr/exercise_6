@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Answer to question: Create an application to get user input, then capitalize it and show it in a text widget by bloc.
+Answer to question: Create an application to get user input and show it in a text widget by bloc.
 
 ## Getting Started
 
